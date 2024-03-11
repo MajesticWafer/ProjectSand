@@ -85,6 +85,7 @@ a:hover {
 #elementTable {
   border-collapse: collapse;
   float: left;
+  margin-right: 7px;
 }
 
 .elementMenuButton {
