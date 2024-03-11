@@ -77,6 +77,8 @@ a:hover {
   color: yellow;
   width: 60vw;
   font-family: "Roboto Mono", monospace;
+  display: flex;
+  justify-content: center; /* Center horizontally */
 }
 
 #elementTable {
