@@ -7,6 +7,10 @@ canvas {
 body {
   background-color: rgb(20, 20, 20);
   margin: 0;
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }
 
 a {
