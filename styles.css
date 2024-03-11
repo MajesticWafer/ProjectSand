@@ -8,7 +8,7 @@ canvas {
 
 body {
   background-color: rgb(20, 20, 20);
-  margin: 0 auto;
+  margin: 0;
   font-family: "Roboto Mono", monospace;
   font-optical-sizing: auto;
   font-weight: 400;
@@ -77,10 +77,8 @@ a:hover {
   user-select: none;
   position: relative;
   color: yellow;
-  width: 60vw;
+  width: inherit;
   font-family: "Roboto Mono", monospace;
-  display: flex;
-  justify-content: center;
   margin: 0 auto;
 }
 
