@@ -75,7 +75,7 @@ a:hover {
   user-select: none;
   position: relative;
   color: yellow;
-  width: inherit;
+  width: 60vw;
   font-family: "Roboto Mono", monospace;
 }
 
